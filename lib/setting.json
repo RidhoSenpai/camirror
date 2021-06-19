@@ -1,0 +1,6 @@
+{
+  "fake":"'© C.A STORE",
+  "fakeimage": "fs.readFileSync(`./media/aqul.jpeg`)",
+  "prefix": "#",
+  "cprefix": ""
+}
